@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:stick"
+        },
+        {
+            "item": "minecraft:soul_soil"
+        },
+        {
+            "item": "minecraft:soul_soil"
+        }
+    ],
+    "result": {
+        "item": "minecraft:soul_campfire",
+        "count": 1
+    }
+}
